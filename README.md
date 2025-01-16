@@ -61,9 +61,9 @@ This demonstration shows how to update and close a mock service ticket that an e
 <p>
   <img src="https://github.com/user-attachments/assets/7e35b7f1-9096-4753-ad59-d6e4dda93e55" height="80%" width="80%">
 </p>
-<p>Now you can scroll dwon to the bottom on ticket to the "Post Reply" section. In the text box, this is where you will give your final update/closing note before closing th ticket. This can include your discoveries while troubleshooting, your steps taken, the corrective action, and any other final notes or information you want associated with this ticket. Once you typed your post, click "Post Reply" to post your reply.</p><br />
+<p>Now you can scroll down to the bottom of ticket to the "Post Reply" section. In the text box, this is where you will give your final update/closing note before closing the ticket. This can include your discoveries while troubleshooting, your steps taken, the corrective action, and any other final notes or information you want associated with this ticket. Once you typed your post, click "Post Reply" to post your reply.</p><br />
 
 <p>
   <img src="https://github.com/user-attachments/assets/07d202eb-d977-4c81-b765-7b44c7c67057" height="80%" width="80%">
 </p>
-<p>Now you are ready to close the ticket. To close the ticket, scroll up to the top of the ticket and click on "Open" next to "Status:" and change the "Status:" to "Resolved". After that click "Close" and this will close the ticket and bring you back to the tickets menu.</p>
+<p>Now you are ready to close the ticket. To close the ticket, scroll up to the top of the ticket and click on "Open" next to "Status:" and change the "Status:" to "Resolved". After that click "Close" and this will close the ticket and bring you back to the Tickets menu.</p>
