@@ -44,12 +44,12 @@ This demonstration shows how to update and close a mock service ticket that an e
 <p>
   <img src="https://github.com/user-attachments/assets/f15c4e9d-488a-4653-91ff-fcf669601f63" height="80%" width="80%">
 </p>
-<p>This box, sismilar to the previous box, is where we will make the update to the "SLA Plan". Click on "Default SLA" and change it to "Sev-A" due to this being an emergency A-level SLA. Again for the "Optional reason for the update" text field, write the reason for  updating the "SLA Plan". Once again click "Update" to apply the change.</p>
+<p>This box, sismilar to the previous box, is where we will make the update to the "SLA Plan". Click on "Default SLA" and change it to "Sev-A" due to this being an emergency A-level SLA. Again for the "Optional reason for the update" text field, write the reason for  updating the "SLA Plan". Once again click "Update" to apply the change.</p><br />
 
 <p>
   <img src="https://github.com/user-attachments/assets/dea5f823-c182-45c1-b6f7-1ac5ff6f3534" height="80%" width="80%">
 </p>
-<p>Lastly, click on "Report a Problem" next to "Help Topic:" to change the "Help Topic:" to "Report a Problem / Business Critical Outage". Because it is more specifically a business critical outage if a whole system is out. For "Optional reason for the update" write down the reason for updating the "Help Topic:" and click "Update".</p>
+<p>Lastly, click on "Report a Problem" next to "Help Topic:" to change the "Help Topic:" to "Report a Problem / Business Critical Outage". Because it is more specifically a business critical outage if a whole system is out. For "Optional reason for the update" write down the reason for updating the "Help Topic:" and click "Update".</p><br />
 
 <p>
   <img src="https://github.com/user-attachments/assets/10837edf-7fec-4aee-981a-033ecddd65a5" height="80%" width="80%">
@@ -66,4 +66,4 @@ This demonstration shows how to update and close a mock service ticket that an e
 <p>
   <img src="https://github.com/user-attachments/assets/07d202eb-d977-4c81-b765-7b44c7c67057" height="80%" width="80%">
 </p>
-<p>Now you are ready to close the ticket. To close the ticket, scroll up to the top of the ticket and click on "Open" next to "Status:" and change the "Status:" to "Resolved". After that click "Close" and this will close the ticket and bring you back to the tickets menu.</p><br />
+<p>Now you are ready to close the ticket. To close the ticket, scroll up to the top of the ticket and click on "Open" next to "Status:" and change the "Status:" to "Resolved". After that click "Close" and this will close the ticket and bring you back to the tickets menu.</p>
