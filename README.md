@@ -19,12 +19,12 @@ This demonstration shows how to update and close a mock service ticket that an e
 
 <br />
 
-<h2>Updating a mock ticket in osTicket</h2>
+<h2>Updating the ticket to provide more accurate information</h2>
 
 <p>
   <img src="https://github.com/user-attachments/assets/a29cb540-8fae-4da4-9f28-7ec2eea9334a" height="80%" width="80%">
 </p>
-<p>To update a mock tikcet in osTicket that an end user created, you first will need to go to the agent login page on osTicket. Enter your login credentials and press enter.</p> <br/>
+<p>To update a mock ticket in osTicket that an end user created, you first will need to go to the agent login page on osTicket. Enter your login credentials and press enter.</p> <br/>
 
 <p>
   <img src="https://github.com/user-attachments/assets/786ec090-2827-4888-868d-c8bf5b0b3673" height="80%" width="80%">
@@ -34,29 +34,29 @@ This demonstration shows how to update and close a mock service ticket that an e
 <p>
   <img src="https://github.com/user-attachments/assets/8ea2ab11-f506-4be8-bfb2-27deb8540d78" height="80%" width="80%">
 </p>
-<p>This screen should then appear (you may need to scroll all the way up). This is the screen where you will make the appropriate updates after you called the user who created the ticket to get clarifying informtion and as much details as possible. In this scenario you called Melissa, the manager for online banking and did verify that her employees are reporting that customers are unable to access their online banking portal and that the online banking portal is down.</p><br />
+<p>This screen should then appear (you may need to scroll all the way up). This is the screen where you will make the appropriate updates after you called the user who created the ticket to get clarifying informtion and as much details as possible. In this scenario you called Melissa, the manager for online banking, and did verify that her employees are reporting that customers are unable to access their online banking portal and that the online banking portal is down.</p><br />
 
 <p>
   <img src="https://github.com/user-attachments/assets/cb168693-c367-4657-98ad-1f5b1c1cf3a2" height="80%" width="80%">
 </p>
-<p>Click on "Normal" next to "Priority:" to change the "Priority Level" to "Emergency" because of a system outage. For the "Optional reason for the update" text box, describe the reason for updating the "Priority Level". Click "Update" to apply the change. Next we need to updat the "SLA Plan:", so click on "Default SLA" to make an update.</p><br />
+<p>To make the first update, click on "Normal" next to "Priority:" to change the "Priority Level" to "Emergency" because of a system outage. For the "Optional reason for the update" text box, describe the reason for updating the "Priority:". Click "Update" to apply the change. Next we need to update the "SLA Plan:", so click on "Default SLA" to make an update.</p><br />
 
 <p>
   <img src="https://github.com/user-attachments/assets/f15c4e9d-488a-4653-91ff-fcf669601f63" height="80%" width="80%">
 </p>
-<p>This box, sismilar to the previous box, is where we will make the update to the "SLA Plan". Click on "Default SLA" and change it to "Sev-A" due to this being an emergency A-level SLA. Again for the "Optional reason for the update" text field, write the reason for  updating the "SLA Plan". Once again click "Update" to apply the change.</p><br />
+<p>This box, similar to the previous box, is where we will make the update to the "SLA Plan:". Click on "Default SLA" next to the "SLA Plan:" and change it to "Sev-A" due to this being an emergency A-level SLA. Again, for the "Optional reason for the update" text field, type the reason for  updating the "SLA Plan:". Once again, click "Update" to apply the change.</p><br />
 
 <p>
   <img src="https://github.com/user-attachments/assets/dea5f823-c182-45c1-b6f7-1ac5ff6f3534" height="80%" width="80%">
 </p>
-<p>Lastly, click on "Report a Problem" next to "Help Topic:" to change the "Help Topic:" to "Report a Problem / Business Critical Outage". Because it is more specifically a business critical outage if a whole system is out. For "Optional reason for the update" write down the reason for updating the "Help Topic:" and click "Update".</p><br />
+<p>Lastly, click on "Report a Problem" next to "Help Topic:" to change the "Help Topic:" to "Report a Problem / Business Critical Outage". Because it is more specifically a business critical outage if a whole system is out. For "Optional reason for the update" type the reason for updating the "Help Topic:" and click "Update".</p><br />
 
 <p>
   <img src="https://github.com/user-attachments/assets/10837edf-7fec-4aee-981a-033ecddd65a5" height="80%" width="80%">
 </p>
 <p>So now, you can click the ticket number at the top to reload the ticket and you will see all the updates you made within the ticket and the "Ticket Thread".</p>
 
-<h2>Closing a ticket to completion</h2>
+<h2>Closing the ticket to completion</h2>
 
 <p>
   <img src="https://github.com/user-attachments/assets/7e35b7f1-9096-4753-ad59-d6e4dda93e55" height="80%" width="80%">
